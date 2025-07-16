@@ -11,7 +11,7 @@ public class BigDoom : Bullet
 		gameObject2.transform.SetParent(GameAPP.board.transform);
 		gameObject2.name = gameObject.name;
 		gameObject2.GetComponent<Doom>().SetDoomType(2);
-		GameAPP.PlaySound(40, 0.2f);
+		GameAPP.PlaySound(41, 0.2f);
 		Die();
 	}
 
@@ -25,7 +25,7 @@ public class BigDoom : Bullet
 		obj.GetComponent<BombCherry>().bombRow = theBulletRow;
 		obj.GetComponent<BombCherry>().isFromZombie = true;
 		obj.GetComponent<BombCherry>().targetPlant = plant;
-		GameAPP.PlaySound(40, 0.2f);
+		GameAPP.PlaySound(41, 0.2f);
 		Die();
 	}
 }
