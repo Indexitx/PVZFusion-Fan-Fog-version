@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb8b6b4bacf83ab80be4f80ba36d3323, type: 3}
+  m_Name: Zombie_polevaulter.fla
+  m_EditorClassIdentifier: 
+  Data: "x\0\uC747|\x14U\u05C6w\0M\u0664\0M\uF908"
+  Hash: Gxt87RzS5hcU1eVYw4eakv8tdQyD7baIHA32ESnhlHo=84519=1.3.15
+  Atlas: {fileID: 2800000, guid: 9de13892d60c58e428c9e261d4f848db, type: 3}
+  Settings:
+    MaxAtlasSize: 2048
+    AtlasPadding: 1
+    PixelsPerUnit: 100
+    BitmapTrimming: 1
+    GenerateMipMaps: 0
+    AtlasPowerOfTwo: 1
+    AtlasForceSquare: 1
+    AtlasTextureFilter: 1
+    AtlasTextureFormat: 2
+  Overridden:
+    MaxAtlasSize: 2048
+    AtlasPadding: 1
+    PixelsPerUnit: 100
+    BitmapTrimming: 1
+    GenerateMipMaps: 0
+    AtlasPowerOfTwo: 1
+    AtlasForceSquare: 1
+    AtlasTextureFilter: 1
+    AtlasTextureFormat: 2

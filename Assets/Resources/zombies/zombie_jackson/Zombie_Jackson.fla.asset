@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb8b6b4bacf83ab80be4f80ba36d3323, type: 3}
+  m_Name: Zombie_Jackson.fla
+  m_EditorClassIdentifier: 
+  Data: "x\0\uC747\0\x15U\u04AE\0\u3F37y\0\t\fq\bC\x14D@\0AI*(\0\f\0\x04\x19d`\b\x02\0\0
+    \0\0Y\f\0\x11\x14\t*\x12D@T\x14\x051\uB6B0\05\0\0\0\0\0J\x1E\uEFFD\0o\x0F=\u03C9\uF87B\u039E\u07BE\0z\u0753]\0\0nU\u075C\0\u045C\0\0\t$^\0\x8E\0\U0012BFA5J\u0278\0e3[\06p\u0308\u0253Z\U0015C57Au\u2902\0!%\0\0\0N\0pJ\u06D6\U0009F87Ei\0\0M\0|r\u0269\x13J.\0:yDYa~\0\u02C7\0\0^rf\u024CA\x13\u01D5L8e\xA5ee\x1E\u048E\u8D48'\u04BA\u0D11$?\0\u01C8\0#\\x\x13\u8D79\u0138\0\x01#\0\0\0\x06\u039C?rb\u0654\u07E9\0S\u01CF\04Es\0B\u05F8\x06\u039C2\0d|\uB4E6\0\0\0\\2\x15\u0727\0\uE772\0dr\u996D\0\0N\0:\0\u0750\0f\u06BA\r\x12/\u033FS\0q\u0445\t\u02E2\0\u3FE2\0SZ\0\0{@\0\u040D\x1F7\uFF9B\u0505y\0\xCA!\u0354\u03F0)\0\0J\0\xE6\u9520n\0\0\0\x18*\v\u6DC7<\08\x14\0\u0747S\0\0\0\U000A3BD91!*J\u6165S\0\0\u0154\u02C8\u022CZ)\u0318\U000219C9\u5CDA\x19\U000BF5E1\x18/\0\x4F\0"
+  Hash: eo4jvc563RpAzj4tLaq7k3ept+fndbHldp5hO12XHVY=60694=1.3.15
+  Atlas: {fileID: 2800000, guid: a5c04496eadfd054fa0086e4494fd136, type: 3}
+  Settings:
+    MaxAtlasSize: 2048
+    AtlasPadding: 1
+    PixelsPerUnit: 100
+    BitmapTrimming: 1
+    GenerateMipMaps: 0
+    AtlasPowerOfTwo: 1
+    AtlasForceSquare: 1
+    AtlasTextureFilter: 1
+    AtlasTextureFormat: 2
+  Overridden:
+    MaxAtlasSize: 2048
+    AtlasPadding: 1
+    PixelsPerUnit: 100
+    BitmapTrimming: 1
+    GenerateMipMaps: 0
+    AtlasPowerOfTwo: 1
+    AtlasForceSquare: 1
+    AtlasTextureFilter: 1
+    AtlasTextureFormat: 2

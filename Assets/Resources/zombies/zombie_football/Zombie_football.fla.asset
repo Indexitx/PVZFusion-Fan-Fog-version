@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb8b6b4bacf83ab80be4f80ba36d3323, type: 3}
+  m_Name: Zombie_football.fla
+  m_EditorClassIdentifier: 
+  Data: "x\0\uC749\\U\u0576\u01EF\0\U00042322 \0\0\U000C08E9\x0E)8\u751AZ9+))9\x06\0^V>m2\0r\0'p\x16\x01A@\x11qN\u04EC\0\u05FC\0\0\a+_O+\u0351\u05BF\0\xF9t%$4\0\U001D9EF7\uDCEF\0s\uF667\0\u05DA\0w\U001B9DD2\x16\0\u0162!F\0\0\0\x15\0\u1B8E\U00071C53\x1E\x1C?\0q\u7FA3\0\u39B7\uEEBAv\u02A4\0Fa\U001C7105\u01CE\0\u063EY\x13\u3FC6a\0\0\0\025.\0\0\u0118\0S\u28877\n\uBEF5\x71\0\0z\u014C\e0i\\\u0304\U001939CE\x1F\uF8BD\at\eP\u0409\0\0\0|H\0\0\u04A5zJ\0\x13\0b\uB597=!\0_\U00114637\0\u04E6<8i|\0[\0\u0629\x13\0'\u01DB\0\0<\u763BO\0\0\x123\0I\u7263\u01C7\0\0\x87\0orW\u0304\0\0\u0611Mz\u01C6O\x19\u067C\u0210\u01FE\v\0\0\u039B\0\0\u9C06\r\0a-\x05\u3E1B\0T0\0\u0561\0\u0348\03?8\u02CF\0K\u14BD\0#bYM\0\u02C8\0\u0607b\u0707\0\0\0'\0[\0x\x11C\0\0\0\0\u06DC\0\u026A6g\u76D9\u065F\x18\0\u048F\uCDD1\0#s\u59D0\0\0\u0270\v\u01A8-\0\0\0\u020E67~\U00032CB3\0\uF436\0\x1D~?\0\0\0\0<\u0624\x43\x1E<\u5862<x\u0243\0<\0\u0203\0<\0\u0243%y\U000171CA\U0009080F\0\U0009090FU\u4858\x1E\0\u0283\u0237\u0766\x0F\u0564!T\x1E\0\u02C3\b\0\u0550\0\0\"\u0645E\0\002\u7EF8\0\0\x1A&\x10ouz\0F\u04EC\uCE37M1\u05DA\0\0\x11\0\0D\0\0\x19a\0\u037F\0\0\x17\x1D\u03AFq\0\0V\u8C5A\0c\0\0:\u075E\u17AFftl\x1C\0\x56/&z\0\x03\0\0\0\0\U001507FA\u01C4\0\x19;\u0163\0\0\0q\0b\0\U0006B783\u28A7L\0\x19-?[\u070C\0\U001EE82D\uE799\U00068CA2=dAE_\u8C71\U000350A6\0c\0CK\0\0\u06F9\0|\u0316_lwF\u077Dzw\uC13E\0~\u0539\0\04\0\x7F\0\0=\0\n\u6E412\0jT\x73p\0\u02C7\u071B\U00174514\0;c\uFC25y\u0191yV)Swc\x16\u062A\x17\0\0\0IaZ?\xC9x\0e\x1A\x1F\x7F\x06\0*\uDB56\x17\u06DB\u07E7\0\x1F\x19/\x14\0\u06E2\u07C3\xEC\u02CDb\v7\0\u05A5&%k}\0\0\0\\\u03C4n\x19\0\x16\u02EB\0\u05B7\x1C\0\0k\U001A5B21i\U001A58715)<\0\U0004AFED}\u036C\x1Ee\0\u0657\0r\u35B9\u02BA\0C_\0\0}U4\0\U000B261A\e[k\0\u037A\U0009AF86\0\0\u078D\0\0\u1417M\0/c\x0F/\0/_\0\0\0\05\0\0LP\uBAD7\U0011537D\0\u0FB6DZO8\U00115876e\uC86D\U001A5BF1\02\0\x06\u0615\x1F/\uCAFD\U001E3F59\0yGY\09\U00115838F\x1F\0\0@\0\0\0\0\0\0\0\x0E\uB442\u063F\u023DL3um\0\0\x1Eq\u8AE9\u0657\0\0\0\u0657\0\u0156\u0798*>\u04C0^9\\\u0617\x1D\u0717\x17\uEAE4\U001F5852z\u0221\0jf_\u019E~f_\0Yl\x1D\0\0\u03F2\e
+    \0\x1C(\x1C\u30DC\u05E3\0C\uEAFC\0u\0\u0657\u052BO\0\u019A\u02DE\0\u033E\0[l\0\0\0B\0\x02\u15F6:\uACB4\u5D91\0\0FYs\x1Dt\0\0\0\0=\0\u037Ej\U000AAA1A]9\0}\0\x14\u011E\x12\u01FD\0\x11i\u076D\U00195BBE\u06E2\u07E3\0\u0657\x1D\0\0\0\0\0\0!\0_\u0675MM\01\0Z\x1Ei\u07690\u018Ef_\u019E\x01f_\U0016DD9E\u0196\0\u0724\u04AC\0\0\0f\04c\u03E3\u0330\x18cK\0/c\0@\0\0p\0\0\0\0U&\0\x04\u045A\uEE37g\0\0\x1F,\0\uDB69\x0E}y\0}\x19{\x04\0}5\0\u063A\x15\05\0%\u0571\0\x16\x19\u3EEC\uB1C8k\0C_\u055D\uBACA\u06573\0\uDFABc\0\uD698\07\uB7BF\u029Ad\U0019539F5\u04E2en\0H\0[\0\u037En\0\u0606\x1A}\0q\0\u0260\u0752\0\05\u037C\0\0\uB6C8\uB987]a\0.c\0\0f_wXlC\0\0\0\0IF\0\e\0\0\u0547\u0378U\0\0np\u8AD3\u0657\0G\0\u0657\e\0mx\0.\0\x19\u05B5\0}\0\x0F\u039Cnz\u039B\0\u0584bt\x19{\u0726\U001953A2\06\0\u05B2\0\0\00^c\u0379-\U00175D12\0\u01A1\0Z\0}U3\0\0\0\u0606\e[\x1F5\0u\u0575\0\x7F\x1C\u3908\uB287\0\x1E5\02\U00188D7B\uAA31\01r\\8\x1F\0_o>.\0\u07BC\0n\U00195162{\0\u06B8-q\0C\0.\u0263\x7F#\0\0\u037E\0\u0337;\u06F7\b3\0\0\u02E2\0`\U0011517C\0u\u1D73q"
+  Hash: Y9eDad+NspUNQNB1CnYhR4YUPR+qQIs5OAgNG2HtNAk=78196=1.3.15
+  Atlas: {fileID: 2800000, guid: ce39c418adb96ee4ebc07f8b317c5fa3, type: 3}
+  Settings:
+    MaxAtlasSize: 2048
+    AtlasPadding: 1
+    PixelsPerUnit: 100
+    BitmapTrimming: 1
+    GenerateMipMaps: 0
+    AtlasPowerOfTwo: 1
+    AtlasForceSquare: 1
+    AtlasTextureFilter: 1
+    AtlasTextureFormat: 2
+  Overridden:
+    MaxAtlasSize: 2048
+    AtlasPadding: 1
+    PixelsPerUnit: 100
+    BitmapTrimming: 1
+    GenerateMipMaps: 0
+    AtlasPowerOfTwo: 1
+    AtlasForceSquare: 1
+    AtlasTextureFilter: 1
+    AtlasTextureFormat: 2
