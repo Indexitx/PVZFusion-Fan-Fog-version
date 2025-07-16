@@ -3,7 +3,7 @@ How to install:
 1.Wrap this 2 folders in to other folder.
 2.In Unity hub click Add=>add project from disk, and select your folder(where this 2 folders)
 3.Open project
-4.Window=>Packaje manager.
+4.Window=>Package manager.
 5.Install Visual Scripting, Universal RP, TextMeshPro
 6.Assets=>resources=>UI=>advanturemenu=>AdvantureMenuFHD
 7.Here find 31 level image and change it on hammer
